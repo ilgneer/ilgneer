@@ -1,5 +1,5 @@
-<div>
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World
+<div>
   <p align="center">Curso Engenharia da Computação na <a href="http://www.ceuma.br/"><i>Universidade Ceuma</i></a> e sou estagiário na <a href="https://www.instagram.com/oxygenihub/"><i>Oxygeni Hub</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.instagram.com/oxygenihub/" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  " target="_blank" />
