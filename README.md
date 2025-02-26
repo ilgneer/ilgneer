@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World
-
+Hey, sou Ilgner Mendes 😄 Desenvolvedor web apaixonado por tecnologia!
+No momento, estou me aprofundando em React ⚛️, Vue.js 🌿 e Angular 🔥, além de me aventurar um pouco no backend 🖥️
 ## 👨‍🚀 Um pouco sobre mim
-- 👨‍💻 Apaioxado por Desenvolvimento Web [Frontend]
 - 🔥 Atualmente atuando como Profissional de TI na Datatech Miranda do Norte 🏛️
 - 💻 Formado em Engenharia da Computação pela [Universidade Ceuma](https://www.ceuma.br/)
 - ✨ Explorando novas tecnologias e frameworks de desenvolvimento
