@@ -1,23 +1,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World
-<div>
-  <p align="center">Curso Engenharia da Computação na <a href="http://www.ceuma.br/"><i>Universidade Ceuma</i></a> e sou estagiário na <a href="https://www.instagram.com/oxygenihub/"><i>Oxygeni Hub</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.instagram.com/oxygenihub/" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  " target="_blank" />
-  </a><br>
-  <p align="center">Por aqui venho compartilhar alguns projetos meus, já segue aí! 😉️</h2>
-</div>
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
+## 👨‍🚀 Um pouco sobre mim
+- 🔥 Atualmente atuando como Profissional de TI na Datatech Miranda do Norte 🏛️
+- 💻 Formado em Engenharia da Computação pela [Universidade Ceuma](https://www.ceuma.br/)
+- ✨ Explorando novas tecnologias e frameworks de desenvolvimento
+- ⚡ Trabalhando em projetos pessoais para aprimorar minhas habilidades técnicas
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
-<div align="center">
-  <a href="https://github.com/ilgneer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ilgneer&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
    <img align="center" alt="After Effects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
